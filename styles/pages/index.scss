@@ -1,0 +1,230 @@
+.section {
+	margin: calc(var(--baseline) * 3) 0;
+	&__outline {
+		.heading {
+			width: 20rem;
+			font-weight: 888;
+			margin-top: var(--baseline);
+			margin-bottom: 0;
+			max-width: 100%;
+			line-height: calc(var(--baseline) * 1.5);
+			@media only screen and (min-width: 48rem) {
+				position: -webkit-sticky;
+				position: sticky;
+				top: 65px;
+				text-align: right;
+			}
+			@media only screen and (max-width: 48rem) {
+				@include poly-fluid-sizing("font-size", type-scale(3));
+			}
+		}
+	}
+}
+
+.fr {
+	position: relative;
+	background-image: url("/static/video/pr.gif");
+	background-size: cover;
+
+	background-position: center;
+	background-color: var(--black-color);
+	min-height: 40rem;
+
+	@media screen and (min-width: 48rem) {
+		margin: 0 calc(var(--gap) * -4);
+	}
+		iframe {
+			width: 100%;
+			height: 100%;
+			position: absolute;
+		}
+}
+
+.people {
+	margin: 0 0 var(--baseline);
+	&.hero {
+		display: flex;
+		flex-direction: column;
+		justify-items: stretch;
+		align-items: center;
+		@media only screen and (min-width: 48rem) {
+			display: grid;
+			grid-template-columns: 1fr 1.5fr;
+			grid-column-gap: calc(var(--gap) * 2);
+		}
+		.people__avatar {
+			min-height: 400px;
+			img {
+				height: 400px;
+			}
+		}
+	}
+	&__avatar {
+		position: relative;
+		// background: #e50914;
+		overflow: hidden;
+		border-radius: var(--radius);
+		margin-bottom: var(--baseline);
+		min-height: 280px;
+		img {
+			display: block;
+			margin: 0;
+			width: 100%;
+			height: auto;
+			object-fit: cover;
+
+		}
+		&:after {
+			content: "";
+			display: block;
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			top: 0;
+			left: 0;
+			background: #0c087d;
+			mix-blend-mode: lighten !important;
+			-webkit-filter: contrast(1.1) !important;
+			filter: contrast(1.1) !important;
+		}
+	}
+	&__name {
+		margin-bottom: calc(var(--baseline) / 2);
+		font-weight: 900;
+		line-height: 1;
+		word-break: break-word;
+	}
+	&__subject {
+		margin-bottom: calc(var(--baseline) / 2);
+	}
+	&__bio {
+		font-weight: 350;
+		color: var(--light-gray-color);
+		font-size: 1rem;
+		line-height: 1.5;
+		word-break: break-word;
+	}
+	&__social {
+		margin-bottom: 1px;
+		.icon {
+			margin-right: 0.5em;
+		}
+	}
+}
+
+.Grid {
+	display: flex;
+	flex-direction: column;
+	@media only screen and (min-width: 48rem) {
+		display: grid;
+		grid-template-columns: 1fr 3fr;
+		grid-gap: calc(var(--gap) * 3);
+		grid-template-areas: ". .";
+	}
+}
+
+.location {
+	position: relative;
+	background-image: url("/static/images/jamuni.jpg");
+	background-size: cover;
+	background-position: center;
+	background-color: var(--black-color);
+	min-height: 40rem;
+	@media only screen and (min-width: 48rem) {
+		height: 80vh;
+	}
+	&__query {
+		position: absolute;
+		bottom: 0;
+		width: 33.3%;
+		padding: var(--gap);
+		background: var(--background-color);
+		@media only screen and (max-width: 48rem) {
+			position: relative;
+			width: 100%;
+		}
+		h3 {
+			font-weight: 800;
+			line-height: 1.2;
+		}
+	}
+}
+
+.sponsors--item {
+	position: relative;
+	margin: 0;
+	margin-bottom: 1.5rem;
+	a {
+		display: block;
+	}
+}
+
+.sponsors--item-image {
+	display: block;
+	max-width: 100%;
+	margin: 0 auto;
+	height: auto;
+	object-fit: cover;
+	object-position: 50% 50%;
+	filter: grayscale(1);
+	opacity: 0.6;
+	transition: 0.3s;
+
+	&:hover {
+		opacity: 1;
+	}
+}
+
+.sponsors--item-title {
+	display: block;
+	margin: 0.25em auto 0;
+	color: var(--foreground-color);
+	text-align: center;
+}
+
+.sponsors--item-type {
+	display: block;
+	font-size: 0.85em;
+	margin: 0 auto 0;
+	text-align: center;
+}
+
+
+
+.footer {
+	margin: 10vh 0 5vh;
+	.container {
+		padding-top: 4vh;
+		border-top: 1px solid rgba(#eee, 0.1);
+	}
+	.footer-logo {
+		display: inline-block;
+		&.space {
+			margin-left: 20px;
+		}
+		img {
+			max-width: 150px;
+			height: auto;
+		}
+	}
+
+	._logo {
+		margin-bottom: 1vh;
+	}
+	p {
+		width: 45rem;
+		color: var(--light-gray-color);
+		max-width: 100%;
+	}
+	.socials {
+		a {
+			color: var(--light-gray-color);
+			&:hover {
+				color: var(--secondary-color);
+			}
+		}
+		.icon {
+			margin-right: 0.75em;
+		}
+	}
+}

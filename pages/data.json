@@ -1,0 +1,328 @@
+{
+	"peoples": [{
+		"slug": "نیما سراییان",
+		"subject": "مدرس کارگاه برندینگ و بازاریابی",
+		"avatar": "/static/images/people/nimasar.jpg",
+		"socials": [{
+			"url": "https://www.linkedin.com/",
+			"icon": "linkedin"
+		}, {
+			"url": "https://github.com",
+			"icon": "github"
+		}],
+		"bio": "موسس و بنیان گذار استودیو آگور، مشاور، کارشناس، طراح و تحلیلگر رابط و تجربه کاربری وبسایت و اپلیکیشن"
+	}, {
+		"slug": "منصور خضرایی منش",
+		"subject": "منتور برنامه ریزی راهبردی و گردشگری",
+		"avatar": "/static/images/people/mansor.jpg",
+		"socials": [{
+			"url": "https://www.linkedin.com/",
+			"icon": "linkedin"
+		},{
+			"url": "https://github.com",
+			"icon": "github"
+		}],
+		"bio": "برگزيده المپياد كامپيوتر و دانش‌آموخته‌ي كامپيوتر دانشگاه صنعتي شريف، تجربه‌هاي متعدد در راه‌اندازي و مديريت مجموعه‌هاي موفقي نظير شركت پيشگامان توسعه ارتباطات و گروه زورق، تسلط بر انفورماتيك و مديريت استراتژيك، تخصص در سامان‌دهي گروه‌هاي جوان در کسب و کارهای آنلاین، عضو تیم سرمایه گذاری CVC"
+	}, {
+		"slug": "کتایون سپهری",
+		"subject": "مدرس کارگاه بوم و کسب و کار",
+		"avatar": "/static/images/people/katayon.jpg",
+		"socials": [{
+			"url": "https://www.linkedin.com",
+			"icon": "linkedin"
+		}, {
+			"url": "https://twitter.com",
+			"icon": "twitter"
+		}, {
+			"url": "https://github.com",
+			"icon": "github"
+		}],
+		"bio": "مدیر شتابدهنده و سرمایه‌گذاری جسورانه منش، منتور کسب و کار، مشاور، مهندس صنایع، مدیر عامل و عضو هیات مدیره شبکه‌ی پژوهش بهنگام"
+	}, {
+		"slug": "ایمان قصر فخری",
+		"subject": "منتور فنی",
+		"avatar": "/static/images/people/iman.jpg",
+		"socials": [{
+			"url": "https://www.linkedin.com/",
+			"icon": "linkedin"
+		}],
+		"bio": "مهندس نرم افزار و توسعه دهنده وب، بنیان گذار و مدیر استارت آپ پارسکدرز به عنوان اولین وب سایت برونسپاری ایران، رهبری و پشتیبانی چندین سیستم سازمانی از جمله CRM شرکت اینترنتی صبانت، سابقه مربی گری در رویدادهای استارتاپی متعدد، مدرس PHP و مدیر شبکه، مشاور کسب و کار"
+	}, {
+		"slug": "امید امرایی",
+		"subject": "مدرس کارگاه طراحی نمونه اولیه محصول",
+		"avatar": "/static/images/people/omid.jpg",
+		"socials": [{
+			"url": "https://www.linkedin.com",
+			"icon": "linkedin"
+		}, {
+			"url": "https://twitter.com",
+			"icon": "twitter"
+		}],
+		"bio": "موسس و مدیرعامل UX Shiraz یکی از بزرگترین و فعال ترین تشکلهای سازمانی کشور با رویکرد مردم نهاد فعال در حوزه طراحی و تجربه کاربری، مدیر محصول شهر فافا، مشاور طراحی و توسعه محصول شیراز تخفیف، طراح محصول در payment24"
+	}, {
+		"slug": "علیرضا درخشان",
+		"subject": "منتور طراحی رابط و تجربه کاربردی",
+		"avatar": "/static/images/people/alirezad.jpg",
+		"socials": [{
+			"url": "https://www.linkedin.com/",
+			"icon": "linkedin"
+		}, {
+			"url": "http://www.twitter.com",
+			"icon": "twitter"
+		}],
+		"bio": "موسس و بنیان گذار استودیو آگور، مشاور، کارشناس، طراح و تحلیلگر رابط و تجربه کاربری وبسایت و اپلیکیشن"
+	}, {
+		"slug": "نگار میردریکوند",
+		"subject": "منتور فنی",
+		"avatar": "/static/images/people/negar.jpg",
+		"socials": [{
+			"url": "http://www.linkedin.com",
+			"icon": "linkedin"
+		},
+			{
+				"url": "https://twitter.com",
+				"icon": "twitter"
+			},{
+				"url": "http://www.instagram.com",
+				"icon": "instagram"
+			}, {
+				"url": "https://github.com",
+				"icon": "github"
+			}],
+		"bio": "کارشناس ارشد هوش مصنوعی، مقام دوم تیمی استارتاپ ویکند هرمزگان، تحلیل گر سامانه های اطلاعاتی در پتروشیمی جم، مدرس دانشگاه شهید چمران اهواز و خلیج فارس بوشهر، توسعه دهنده اندروید، برنامه نویس شرکت دانش بنیان وابسته به شرکت ملی حفاری ایران، برنامه نویس شرکت دانش بنیان سپنتا در سازمان آب و برق خوزستان"
+	},
+		{
+			"slug": "محمدرضا مرادی",
+			"subject": "منتور گرافیک و طراحی رابط کاربری",
+			"avatar": "/static/images/people/mmdrzam.jpg",
+			"socials": [{
+				"url": "https://www.linkedin.com",
+				"icon": "linkedin"
+			}, {
+				"url": "https://twitter.com",
+				"icon": "twitter"
+			}, {
+				"url": "https://github.com",
+				"icon": "github"
+			}],
+			"bio": "گرافيست و طراح رابط هاي كاربري، راه اندازی استارت آپ فودجو (foodjoo.com) اولین وب سايت سفارش انلاين خريدهاي روزانه ي استان بوشهر، برگزيده ي جشنواره ي الكامپ ٩٦ بوشهر، كارشناس استارت آپ در چندين همايش و برنامه ي تلويزيوني"
+		},
+
+		{
+			"slug": "مهدی غیبی",
+			"subject": "منتور توسعه کسب و کار",
+			"avatar": "/static/images/people/mehdighb.jpg",
+			"socials": [{
+				"url": "https://www.linkedin.com/",
+				"icon": "linkedin"
+			}],
+			"bio": "بنیانگذار و مدیر ارشد شرکت فناوری هوشمند ناوش آریا، عضو هیئت مدیره سازمان نظام صنفی رایانه خراسان رضوی، نویسنده و روزنامه نگار فناوری اطلاعات، بنیانگذار استارتاپ های اپ کار، العلاجات در گردشگری، نجات، دست یار و تخفیف من، مربی گری بیش از ۴۵ رویداد استارتاپ ویکند، راه اندازی هفته نامه بایت"
+		},
+		
+		{
+			"slug": "عطیه غلامپور",
+			"subject": "منتور گردشگری و میراث فرهنگی",
+			"avatar": "/static/images/people/ataieh.jpg",
+			"socials": [{
+				"url": "http://linkedin.com",
+				"icon": "linkedin"
+			}, {
+				"url": "https://twitter.com",
+				"icon": "twitter"
+			}, {
+				"url": "https://github.com",
+				"icon": "github"
+			}],
+			"bio": "كارشناسی ارشد طراحی صنعتی، مدرس دانشگاه ، مدرس دوره های طراحی محصول و کارگاه های بسته بندی صنایع دستی، طراح محصولات صنعتی و شهری، عضو رسمی کارگروه بسته بندی صنایع دستی سازمان میراث فرهنگی، صنایع دستی و گردشگری کل کشور، مدرس دوره های خاص طراحی صنعتی، معماری"
+		}, {
+			"slug": "حامد آرون",
+			"subject": "منتور مدیریت و فرهنگ سازی",
+			"avatar": "/static/images/people/hamed.jpg",
+			"socials": [{
+				"url": "https://www.linkedin.com",
+				"icon": "linkedin"
+			}],
+			"bio": "موسس استارتاپ ویکند رکاد، طراح و دبیر جشنواره مهندسین فردا در سطح شرق کشور، مشاور جوان برتر ادارات آموزش و پرورش استان خراسان رضوی، طراحی و راه اندازی سامانه تبادل فایل مجازی ویژه دوایر اداری، عضو کمیته داوران نهمین دوره مسابقات بتن دانشجویی دانشگاههای شرق کشور، رتبه اول کشور در المپیاد فرش"
+		}, {
+			"slug": "سعید طلعتیان آزاد",
+			"subject": "منتور فنی و گردشگری",
+			"avatar": "/static/images/people/saeed.jpg",
+			"socials": [{
+				"url": "https://www.linkedin.com",
+				"icon": "linkedin"
+			}, {
+				"url": "https://github.com",
+				"icon": "github"
+			}, {
+				"url": "https://twitter.com",
+				"icon": "twitter"
+			}],
+			"bio": "عضو هیات علمی دانشگاه خلیج فارس، مشاور فنی تیم های کسب و کار آنلاین به ویژه در حوزه گردشگری"
+		},
+		{
+			"slug": "فرخ شهابی نژاد",
+			"subject": "توسعه دهنده",
+			"avatar": "/static/images/people/farokh.jpg",
+			"socials": [{
+				"url": "https://www.linkedin.com",
+				"icon": "linkedin"
+			},
+				{
+					"url": "http://instagram.com/",
+					"icon": "fa-twitter"
+				}
+			],
+			"bio": "فرخ در ۱۷ سالگی اولین بیزنس آنلاین خود را شروع کرد. او تا کنون بر روی استارتاپ های زیادی در سراسر دنیا کار کرده و همکاری داشته است. او از بنیانگذاران شرکت های HostInstall .میکروبلاگ فارسی بیپ فا و ایده ران نیز می باشد.او در حال حاضر بر روی Eventbox.ir کار می کند و از برگزارکنندگان TEDxTehran است."
+		},
+		{
+			"slug": "مصطفی خلیل نسب",
+			"subject": "منتور توسعه کسب و کار و محصول",
+			"avatar": "/static/images/people/mostafa.jpg",
+			"socials": [{
+				"url": "https://www.linkedin.com",
+				"icon": "linkedin"
+			}, {
+				"url": "https://twitter.com",
+				"icon": "twitter"
+			}],
+			"bio": "مدیر واحد طراحی و توسعه شتابدهنده هاست ایران با تمرکز بر کسب و کارهای نوپای فناوری اطلاعات، طراح وب، منتور رویدادهای متعدد استارتاپ ویکند"
+		}
+		
+		
+	],
+	"juries": [
+		{
+			"avatar": "/static/images/people/miladn.jpg",
+			"slug": "میلاد نوری",
+			"socials": [{
+				"url": "https://www.linkedin.com/",
+				"icon": "linkedin"
+			}, {
+				"url": "https://twitter.com/",
+				"icon": "twitter"
+			}]
+		},
+		{
+			"avatar": "/static/images/people/ayat.jpg",
+			"slug": "آیت حسینی",
+			"socials": [{
+				"url": "https://www.linkedin.com/",
+				"icon": "linkedin"
+			}, {
+				"url": "https://twitter.com/",
+				"icon": "twitter"
+			}]
+		},
+		{
+			"avatar": "/static/images/people/arash.jpg",
+			"slug": "آرش سروری",
+			"socials": [{
+				"url": "https://www.linkedin.com/",
+				"icon": "linkedin"
+			}, {
+				"url": "https://twitter.com",
+				"icon": "twitter"
+			}]
+		}
+	],
+	"team": 
+	[{
+		"avatar": "/static/images/people/bidoki.jpg",
+		"slug": "محمد بیدکی",
+		"bio": "تسهیلگر رویداد،عضو هیات علمی دانشگاه خلیج فارس",
+		"socials": [{
+			"url": "http://www.linkedin.com",
+			"icon": "linkedin"
+		},
+			{
+				"url": "https://twitter.com",
+				"icon": "twitter"
+			},{
+				"url": "http://www.instagram.com",
+				"icon": "instagram"
+			}, {
+				"url": "https://github.com",
+				"icon": "github"
+			}
+		]
+	}, {
+		"avatar": "/static/images/people/hsndg.jpg",
+		"slug": "حسین دهقان",
+		"bio": "دبیر فنی رویداد،عضو هیات علمی دانشگاه خلیج فارس",
+		"socials": [{
+			"url": "https://www.linkedin.com",
+			"icon": "linkedin"
+		}, {
+			"url": "https://twitter.com",
+			"icon": "twitter"
+		}]
+	},
+	 {
+		"avatar": "/static/images/people/ahmadi.jpg",
+		"slug": "غلامرضا احمدی",
+		"bio": "دبیر اجرایی رویداد و عضو هیات علمی دانشگاه خلیج فارس",
+		"socials": [{
+			"url": "https://www.linkedin.com",
+			"icon": "linkedin"
+		}, {
+			"url": "https://twitter.com",
+			"icon": "twitter"
+		}]
+	},
+	{
+		"avatar": "/static/images/people/ranjbar.jpg",
+		"slug": "نیلوفر رنجبر",
+		"bio": "دبیر اجرایی رویداد و عضو هیات علمی دانشگاه خلیج فارس",
+		"socials": [{
+			"url": "https://www.linkedin.com",
+			"icon": "linkedin"
+		}, {
+			"url": "https://twitter.com",
+			"icon": "twitter"
+		}]
+	}
+		
+		
+	],
+	"partners" : [
+		{
+			"title": "دبیرخانه همایش روز جم",
+			"logo": "/static/images/partners/dayjam.jpg",
+			"url": "#"
+		},
+		{
+			"title": "آزمایشگاه توسعه نرم افزار",
+			"logo": "/static/images/partners/sdlab.jpg",
+			"url": "#"
+		},
+		{
+			"title": "پایگاه اطلاع رسانی رویدادهای دانشجویی",
+			"logo": "/static/images/partners/pagstd.jpg",
+			"url": "#"
+		},
+		{
+			"title": "پردیس نت",
+			"logo": "/static/images/partners/pardisnet.jpg",
+			"url": "#"
+		},
+		{
+			"title": "دانشگاه خلیج فارس بوشهر",
+			"logo": "/static/images/partners/pgu.jpg",
+			"url": "#"
+		},
+		{
+			"title": "شهرداری جم",
+			"logo": "/static/images/partners/shrjam.jpg",
+			"url": "#"
+		},
+		{
+			"title": "شورای اسلامی شهر جم",
+			"logo": "/static/images/partners/shorajam.jpg",
+			"url": "#"
+		}
+		
+		
+	]
+	
+	
+}

@@ -1,0 +1,31 @@
+{
+	"homepage": "http://maxmin51.github.io/swjam",
+	"name": "swjam",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"export": "next build && next export -o dist",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
+	},
+	"dependencies": {
+		"@zeit/next-sass": "^1.0.1",
+		"classnames": "^2.2.6",
+		"express": "^4.17.1",
+		"gh-pages": "^3.1.0",
+		"install": "^0.13.0",
+		"next": "9.4.4",
+		"next-routes": "^1.4.2",
+		"node-sass": "^4.12.0",
+		"normalize.css": "^8.0.1",
+		"npm": "^6.10.3",
+		"react": "^16.13.1",
+		"react-css-grid": "^2.0.0-0",
+		"react-dom": "^16.13.1",
+		"react-lazyload": "^2.6.2",
+		"react-scroll-parallax": "^2.1.2"
+	}
+}
